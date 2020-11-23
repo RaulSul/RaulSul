@@ -1,6 +1,6 @@
 ### Hi there, I'm Raul 👋
 
-#### I'm a iOS Mobile Engineer at Charly.education, High-Tech Enthusiast, and an AR Specialist
+#### I'm an iOS Mobile Engineer at Charly.education, High-Tech Enthusiast, and an AR Specialist
 ---
 - 🌱 I’m always on lookout for the best and newest prcatices in iOS and Swift development
 - 🔭 I’m currently working on providing the better and more accessible education for everyone
