@@ -5,6 +5,7 @@
 - 🌱 I’m always on lookout for the best and newest prcatices in iOS and Swift development
 - 🔭 I’m currently working on providing the better and more accessible education for everyone
 - :milky_way: Amazed by everything SPACE
+- :herb: looking for the ways to increase sustainability in our communities
 - 💬 Ask me about everything AR
 - 😄 Pronouns: he/him
 
