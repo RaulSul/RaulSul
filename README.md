@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on providing better and more accessible education for everyone
 - :milky_way: Amazed by everything SPACE
 - :herb: Looking for the ways to increase sustainability in our communities
-- 💬 Ask me about everything AR
+- 💬 Ask me about anything AR
 - 😄 Pronouns: he/him
 
 
