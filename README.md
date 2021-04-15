@@ -1,4 +1,4 @@
-### Hi there, I'm Raul 👋
+### Hi there, I'm Raul <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### I'm an iOS Mobile Engineer at Charly.education, High-Tech Enthusiast, and an AR Specialist
 ---
