@@ -1,3 +1,5 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 ### Hey there, I'm Raul <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### I'm an iOS Mobile Engineer at [Charly Education (PlusPeter GmbH)](https://apps.apple.com/app/apple-store/id1464182310?mt=8), High-Tech Enthusiast, and an AR Specialist
