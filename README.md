@@ -15,7 +15,7 @@
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" alt="Swift" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 
 ---
