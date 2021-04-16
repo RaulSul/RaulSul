@@ -4,13 +4,20 @@
 
 #### I'm an iOS Mobile Engineer at [Charly Education (PlusPeter GmbH)](https://apps.apple.com/app/apple-store/id1464182310?mt=8), High-Tech Enthusiast, and an AR Specialist
 ---
-- 🌱 I’m always on lookout for the best and newest practices in iOS and Swift development
-- 🔭 I’m currently working on providing better and more accessible education for everyone
-- :milky_way: Amazed by everything SPACE
-- :herb: Looking for the ways to increase sustainability in our communities
-- 💬 Ask me about anything AR
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to be an archaeologist 🤠
+🌱 I’m always on lookout for the best and newest practices in iOS and Swift development
+
+🔭 I’m currently working on providing better and more accessible education for everyone
+
+:milky_way: Amazed by everything SPACE
+
+:herb: Looking for the ways to increase sustainability in our communities
+
+💬 Ask me about anything AR
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I used to be an archaeologist 🤠
+
 
 
 ---
