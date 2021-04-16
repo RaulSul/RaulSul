@@ -2,7 +2,7 @@
 
 #### I'm an iOS Mobile Engineer at [Charly Education](https://apps.apple.com/app/apple-store/id1464182310?mt=8), High-Tech Enthusiast, and an AR Specialist
 ---
-- 🌱 I’m always on lookout for the best and newest prcatices in iOS and Swift development
+- 🌱 I’m always on lookout for the best and newest practices in iOS and Swift development
 - 🔭 I’m currently working on providing better and more accessible education for everyone
 - :milky_way: Amazed by everything SPACE
 - :herb: Looking for the ways to increase sustainability in our communities
