@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulSul&hide=java&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulSul&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulSul&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
