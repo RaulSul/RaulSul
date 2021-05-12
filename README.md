@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on providing better and more accessible education for everyone
 
-:milky_way: Amazed by everything SPACE
+:milky_way: Amazed by everything SPACE and FUTURISM
 
 :herb: Looking for the ways to increase sustainability in our communities
 
