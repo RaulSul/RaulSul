@@ -4,11 +4,11 @@
 
 #### I'm an iOS Mobile Engineer at [Charly Education (PlusPeter GmbH)](https://apps.apple.com/app/apple-store/id1464182310?mt=8), High-Tech Enthusiast, and an AR Specialist
 ---
-🥷🏼 I think that Code Ninjas should shift to Code Samurai approach
+🥷🏼 Code Samurai
 
 🌱 I’m always on lookout for the best and newest practices in iOS and Swift development
 
-🔭 I’m currently working on providing better and more accessible education for everyone
+🔭 I’m passionate about providing better and more accessible education for everyone
 
 :milky_way: Amazed by everything SPACE and FUTURISM
 
